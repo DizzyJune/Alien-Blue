@@ -1,0 +1,33 @@
+{
+    "manifest": {
+        "author": "Juneee#1732",
+        "name": "Alien Blue",
+        "version": "1.0.1"
+    },
+    "background": {
+        "blur_radius": 0,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/847196945331650614\/1020876200991805442\/Untitled5_20220917215655.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -13732865,
+        "background_secondary": -15066572,
+        "mention_highlight": 1478911460,
+        "background": -15066572,
+        "active_channel": 2133750783,
+        "input_background": -15724512
+    },
+    "colors": {
+        "brand_new_560": -13732865,
+        "link": -13732865,
+        "uikit_btn_bg_color_selector_red": -13732865,
+        "uikit_btn_bg_color_selector_green": -13732865,
+        "uikit_btn_compound_color_selector_dark": -13732865,
+        "uikit_settings_item_text_color_light": -14263872
+    },
+    "drawable_tints": {},
+    "raws": {
+        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/530561819656454176\/1020841783212642404\/Slingshot-goodkid.mp3",
+        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/530561819656454176\/1020841783212642404\/Slingshot-goodkid.mp3"
+    }
+}
